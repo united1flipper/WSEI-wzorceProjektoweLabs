@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\bin\Debug\netcoreapp2.2\WzorceProjektowe_Labs.deps.json
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\bin\Debug\netcoreapp2.2\WzorceProjektowe_Labs.runtimeconfig.json
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\bin\Debug\netcoreapp2.2\WzorceProjektowe_Labs.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\bin\Debug\netcoreapp2.2\WzorceProjektowe_Labs.dll
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\bin\Debug\netcoreapp2.2\WzorceProjektowe_Labs.pdb
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\obj\Debug\netcoreapp2.2\WzorceProjektowe_Labs.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\obj\Debug\netcoreapp2.2\WzorceProjektowe_Labs.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\obj\Debug\netcoreapp2.2\WzorceProjektowe_Labs.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\obj\Debug\netcoreapp2.2\WzorceProjektowe_Labs.AssemblyInfo.cs
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\obj\Debug\netcoreapp2.2\WzorceProjektowe_Labs.dll
+D:\Users\bartosz.gajos\source\repos\WzorceProjektowe_Labs\WzorceProjektowe_Labs\obj\Debug\netcoreapp2.2\WzorceProjektowe_Labs.pdb
