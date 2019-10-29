@@ -1,0 +1,11 @@
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\bin\Debug\netcoreapp2.2\MetodaWytwórcza.deps.json
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\bin\Debug\netcoreapp2.2\MetodaWytwórcza.runtimeconfig.json
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\bin\Debug\netcoreapp2.2\MetodaWytwórcza.runtimeconfig.dev.json
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\bin\Debug\netcoreapp2.2\MetodaWytwórcza.dll
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\bin\Debug\netcoreapp2.2\MetodaWytwórcza.pdb
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\obj\Debug\netcoreapp2.2\MetodaWytwórcza.csprojAssemblyReference.cache
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\obj\Debug\netcoreapp2.2\MetodaWytwórcza.csproj.CoreCompileInputs.cache
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\obj\Debug\netcoreapp2.2\MetodaWytwórcza.AssemblyInfoInputs.cache
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\obj\Debug\netcoreapp2.2\MetodaWytwórcza.AssemblyInfo.cs
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\obj\Debug\netcoreapp2.2\MetodaWytwórcza.dll
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\MetodaWytwórcza\MetodaWytwórcza\obj\Debug\netcoreapp2.2\MetodaWytwórcza.pdb

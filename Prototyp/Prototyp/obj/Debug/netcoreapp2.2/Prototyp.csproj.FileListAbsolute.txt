@@ -1,0 +1,11 @@
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\bin\Debug\netcoreapp2.2\Prototyp.deps.json
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\bin\Debug\netcoreapp2.2\Prototyp.runtimeconfig.json
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\bin\Debug\netcoreapp2.2\Prototyp.runtimeconfig.dev.json
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\bin\Debug\netcoreapp2.2\Prototyp.dll
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\bin\Debug\netcoreapp2.2\Prototyp.pdb
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\obj\Debug\netcoreapp2.2\Prototyp.csprojAssemblyReference.cache
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\obj\Debug\netcoreapp2.2\Prototyp.csproj.CoreCompileInputs.cache
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\obj\Debug\netcoreapp2.2\Prototyp.AssemblyInfoInputs.cache
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\obj\Debug\netcoreapp2.2\Prototyp.AssemblyInfo.cs
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\obj\Debug\netcoreapp2.2\Prototyp.dll
+C:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Prototyp\Prototyp\obj\Debug\netcoreapp2.2\Prototyp.pdb
