@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.deps.json
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.dll
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\bin\Debug\netcoreapp2.2\Adapter.pdb
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.dll
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Adapter\Adapter\obj\Debug\netcoreapp2.2\Adapter.pdb

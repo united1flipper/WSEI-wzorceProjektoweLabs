@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\bin\Debug\netcoreapp2.2\Fasada.deps.json
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\bin\Debug\netcoreapp2.2\Fasada.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\bin\Debug\netcoreapp2.2\Fasada.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\bin\Debug\netcoreapp2.2\Fasada.dll
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\bin\Debug\netcoreapp2.2\Fasada.pdb
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\obj\Debug\netcoreapp2.2\Fasada.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\obj\Debug\netcoreapp2.2\Fasada.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\obj\Debug\netcoreapp2.2\Fasada.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\obj\Debug\netcoreapp2.2\Fasada.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\obj\Debug\netcoreapp2.2\Fasada.dll
+D:\Users\bartosz.gajos\Desktop\Barto\wzorceProjektoweLabs\Fasada\Fasada\obj\Debug\netcoreapp2.2\Fasada.pdb
