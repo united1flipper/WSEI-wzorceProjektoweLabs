@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\obj\Debug\netcoreapp2.2\Dekorator.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\obj\Debug\netcoreapp2.2\Dekorator.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\obj\Debug\netcoreapp2.2\Dekorator.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\obj\Debug\netcoreapp2.2\Dekorator.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\bin\Debug\netcoreapp2.2\Dekorator.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\bin\Debug\netcoreapp2.2\Dekorator.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\bin\Debug\netcoreapp2.2\Dekorator.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\bin\Debug\netcoreapp2.2\Dekorator.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\bin\Debug\netcoreapp2.2\Dekorator.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\obj\Debug\netcoreapp2.2\Dekorator.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Dekorator\Dekorator\obj\Debug\netcoreapp2.2\Dekorator.pdb

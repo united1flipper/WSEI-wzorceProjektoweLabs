@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\bin\Debug\netcoreapp2.2\Most.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\bin\Debug\netcoreapp2.2\Most.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\bin\Debug\netcoreapp2.2\Most.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\bin\Debug\netcoreapp2.2\Most.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\bin\Debug\netcoreapp2.2\Most.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\obj\Debug\netcoreapp2.2\Most.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\obj\Debug\netcoreapp2.2\Most.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\obj\Debug\netcoreapp2.2\Most.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\obj\Debug\netcoreapp2.2\Most.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\obj\Debug\netcoreapp2.2\Most.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Most\Most\obj\Debug\netcoreapp2.2\Most.pdb
