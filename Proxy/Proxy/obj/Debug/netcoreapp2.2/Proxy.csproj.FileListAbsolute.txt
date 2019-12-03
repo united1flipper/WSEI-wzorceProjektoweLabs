@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\bin\Debug\netcoreapp2.2\Proxy.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Proxy\Proxy\obj\Debug\netcoreapp2.2\Proxy.pdb

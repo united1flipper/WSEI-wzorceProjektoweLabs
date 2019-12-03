@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.2\Kompozyt.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.2\Kompozyt.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.2\Kompozyt.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.2\Kompozyt.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.2\Kompozyt.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.2\Kompozyt.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.2\Kompozyt.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.2\Kompozyt.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.2\Kompozyt.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.2\Kompozyt.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.2\Kompozyt.pdb

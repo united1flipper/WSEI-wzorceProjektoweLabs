@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\bin\Debug\netcoreapp2.2\Pyłek.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\bin\Debug\netcoreapp2.2\Pyłek.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\bin\Debug\netcoreapp2.2\Pyłek.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\bin\Debug\netcoreapp2.2\Pyłek.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\bin\Debug\netcoreapp2.2\Pyłek.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\obj\Debug\netcoreapp2.2\Pyłek.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\obj\Debug\netcoreapp2.2\Pyłek.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\obj\Debug\netcoreapp2.2\Pyłek.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\obj\Debug\netcoreapp2.2\Pyłek.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\obj\Debug\netcoreapp2.2\Pyłek.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Pyłek\Pyłek\obj\Debug\netcoreapp2.2\Pyłek.pdb
