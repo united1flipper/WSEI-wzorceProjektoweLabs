@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\bin\Debug\netcoreapp2.2\Interpreter.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Interpreter\Interpreter\obj\Debug\netcoreapp2.2\Interpreter.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\bin\Debug\netcoreapp2.2\Iterator.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\bin\Debug\netcoreapp2.2\Iterator.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\bin\Debug\netcoreapp2.2\Iterator.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\bin\Debug\netcoreapp2.2\Iterator.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\bin\Debug\netcoreapp2.2\Iterator.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\obj\Debug\netcoreapp2.2\Iterator.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\obj\Debug\netcoreapp2.2\Iterator.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\obj\Debug\netcoreapp2.2\Iterator.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\obj\Debug\netcoreapp2.2\Iterator.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\obj\Debug\netcoreapp2.2\Iterator.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Iterator\Iterator\obj\Debug\netcoreapp2.2\Iterator.pdb
