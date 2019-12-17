@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\bin\Debug\netcoreapp2.2\Mediator.deps.json
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\bin\Debug\netcoreapp2.2\Mediator.runtimeconfig.json
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\bin\Debug\netcoreapp2.2\Mediator.runtimeconfig.dev.json
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\bin\Debug\netcoreapp2.2\Mediator.dll
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\bin\Debug\netcoreapp2.2\Mediator.pdb
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\obj\Debug\netcoreapp2.2\Mediator.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\obj\Debug\netcoreapp2.2\Mediator.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\obj\Debug\netcoreapp2.2\Mediator.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\obj\Debug\netcoreapp2.2\Mediator.AssemblyInfo.cs
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\obj\Debug\netcoreapp2.2\Mediator.dll
+D:\Users\bartosz.gajos.WSEI\Desktop\wzorceProjektoweLabs\Mediator\Mediator\obj\Debug\netcoreapp2.2\Mediator.pdb
