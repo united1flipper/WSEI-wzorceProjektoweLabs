@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\bin\Debug\netcoreapp2.2\Obserwator.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\bin\Debug\netcoreapp2.2\Obserwator.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\bin\Debug\netcoreapp2.2\Obserwator.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\bin\Debug\netcoreapp2.2\Obserwator.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\bin\Debug\netcoreapp2.2\Obserwator.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\obj\Debug\netcoreapp2.2\Obserwator.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\obj\Debug\netcoreapp2.2\Obserwator.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\obj\Debug\netcoreapp2.2\Obserwator.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\obj\Debug\netcoreapp2.2\Obserwator.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\obj\Debug\netcoreapp2.2\Obserwator.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Obserwator\Obserwator\obj\Debug\netcoreapp2.2\Obserwator.pdb

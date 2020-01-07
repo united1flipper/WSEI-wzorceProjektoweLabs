@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\bin\Debug\netcoreapp2.2\Odwiedzający.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\bin\Debug\netcoreapp2.2\Odwiedzający.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\bin\Debug\netcoreapp2.2\Odwiedzający.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\bin\Debug\netcoreapp2.2\Odwiedzający.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\bin\Debug\netcoreapp2.2\Odwiedzający.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\obj\Debug\netcoreapp2.2\Odwiedzający.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\obj\Debug\netcoreapp2.2\Odwiedzający.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\obj\Debug\netcoreapp2.2\Odwiedzający.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\obj\Debug\netcoreapp2.2\Odwiedzający.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\obj\Debug\netcoreapp2.2\Odwiedzający.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\Odwiedzający\Odwiedzający\obj\Debug\netcoreapp2.2\Odwiedzający.pdb

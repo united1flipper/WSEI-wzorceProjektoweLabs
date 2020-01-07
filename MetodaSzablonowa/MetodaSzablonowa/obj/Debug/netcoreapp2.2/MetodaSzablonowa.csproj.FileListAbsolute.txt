@@ -1,0 +1,11 @@
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\netcoreapp2.2\MetodaSzablonowa.deps.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\netcoreapp2.2\MetodaSzablonowa.runtimeconfig.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\netcoreapp2.2\MetodaSzablonowa.runtimeconfig.dev.json
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\netcoreapp2.2\MetodaSzablonowa.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\bin\Debug\netcoreapp2.2\MetodaSzablonowa.pdb
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\netcoreapp2.2\MetodaSzablonowa.csprojAssemblyReference.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\netcoreapp2.2\MetodaSzablonowa.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\netcoreapp2.2\MetodaSzablonowa.AssemblyInfoInputs.cache
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\netcoreapp2.2\MetodaSzablonowa.AssemblyInfo.cs
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\netcoreapp2.2\MetodaSzablonowa.dll
+D:\Users\bartosz.gajos\Desktop\wzorceProjektoweLabs\MetodaSzablonowa\MetodaSzablonowa\obj\Debug\netcoreapp2.2\MetodaSzablonowa.pdb
