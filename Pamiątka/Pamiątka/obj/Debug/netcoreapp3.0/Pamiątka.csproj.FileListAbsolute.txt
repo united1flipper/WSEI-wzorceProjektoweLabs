@@ -1,0 +1,11 @@
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\bin\Debug\netcoreapp3.0\Pamiątka.exe
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\bin\Debug\netcoreapp3.0\Pamiątka.deps.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\bin\Debug\netcoreapp3.0\Pamiątka.runtimeconfig.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\bin\Debug\netcoreapp3.0\Pamiątka.runtimeconfig.dev.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\bin\Debug\netcoreapp3.0\Pamiątka.dll
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\bin\Debug\netcoreapp3.0\Pamiątka.pdb
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\obj\Debug\netcoreapp3.0\Pamiątka.csprojAssemblyReference.cache
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\obj\Debug\netcoreapp3.0\Pamiątka.AssemblyInfoInputs.cache
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\obj\Debug\netcoreapp3.0\Pamiątka.AssemblyInfo.cs
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\obj\Debug\netcoreapp3.0\Pamiątka.dll
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Pamiątka\Pamiątka\obj\Debug\netcoreapp3.0\Pamiątka.pdb

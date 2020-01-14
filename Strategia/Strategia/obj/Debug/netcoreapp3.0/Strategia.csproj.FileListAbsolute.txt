@@ -1,0 +1,11 @@
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\bin\Debug\netcoreapp3.0\Strategia.exe
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\bin\Debug\netcoreapp3.0\Strategia.deps.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\bin\Debug\netcoreapp3.0\Strategia.runtimeconfig.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\bin\Debug\netcoreapp3.0\Strategia.runtimeconfig.dev.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\bin\Debug\netcoreapp3.0\Strategia.dll
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\bin\Debug\netcoreapp3.0\Strategia.pdb
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\obj\Debug\netcoreapp3.0\Strategia.csprojAssemblyReference.cache
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\obj\Debug\netcoreapp3.0\Strategia.AssemblyInfoInputs.cache
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\obj\Debug\netcoreapp3.0\Strategia.AssemblyInfo.cs
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\obj\Debug\netcoreapp3.0\Strategia.dll
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Strategia\Strategia\obj\Debug\netcoreapp3.0\Strategia.pdb

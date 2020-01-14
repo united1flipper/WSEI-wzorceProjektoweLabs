@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs.csproj": {}
+    "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\Pamiątka\\Pamiątka\\Pamiątka.csproj": {}
   },
   "projects": {
-    "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs.csproj": {
+    "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\Pamiątka\\Pamiątka\\Pamiątka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs.csproj",
-        "projectName": "WzorceProjektowe_Labs",
-        "projectPath": "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs.csproj",
+        "projectUniqueName": "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\Pamiątka\\Pamiątka\\Pamiątka.csproj",
+        "projectName": "Pamiątka",
+        "projectPath": "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\Pamiątka\\Pamiątka\\Pamiątka.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\WzorceProjektowe_Labs\\WzorceProjektowe_Labs\\obj\\",
+        "outputPath": "D:\\Studia\\3semestr\\Wzorce Projektowe\\wzorceProjektoweLabs\\Pamiątka\\Pamiątka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -39,15 +39,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -58,6 +50,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
