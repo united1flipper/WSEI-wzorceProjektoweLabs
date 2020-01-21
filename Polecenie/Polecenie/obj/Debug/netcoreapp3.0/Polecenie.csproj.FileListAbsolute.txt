@@ -1,0 +1,11 @@
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\bin\Debug\netcoreapp3.0\Polecenie.exe
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\bin\Debug\netcoreapp3.0\Polecenie.deps.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\bin\Debug\netcoreapp3.0\Polecenie.runtimeconfig.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\bin\Debug\netcoreapp3.0\Polecenie.runtimeconfig.dev.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\bin\Debug\netcoreapp3.0\Polecenie.dll
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\bin\Debug\netcoreapp3.0\Polecenie.pdb
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\obj\Debug\netcoreapp3.0\Polecenie.csprojAssemblyReference.cache
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\obj\Debug\netcoreapp3.0\Polecenie.AssemblyInfoInputs.cache
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\obj\Debug\netcoreapp3.0\Polecenie.AssemblyInfo.cs
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\obj\Debug\netcoreapp3.0\Polecenie.dll
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Polecenie\Polecenie\obj\Debug\netcoreapp3.0\Polecenie.pdb

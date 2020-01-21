@@ -1,0 +1,11 @@
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\bin\Debug\netcoreapp3.0\Stan.exe
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\bin\Debug\netcoreapp3.0\Stan.deps.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\bin\Debug\netcoreapp3.0\Stan.runtimeconfig.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\bin\Debug\netcoreapp3.0\Stan.runtimeconfig.dev.json
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\bin\Debug\netcoreapp3.0\Stan.dll
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\bin\Debug\netcoreapp3.0\Stan.pdb
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\obj\Debug\netcoreapp3.0\Stan.csprojAssemblyReference.cache
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\obj\Debug\netcoreapp3.0\Stan.AssemblyInfoInputs.cache
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\obj\Debug\netcoreapp3.0\Stan.AssemblyInfo.cs
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\obj\Debug\netcoreapp3.0\Stan.dll
+D:\Studia\3semestr\Wzorce Projektowe\wzorceProjektoweLabs\Stan\Stan\obj\Debug\netcoreapp3.0\Stan.pdb
